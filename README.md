@@ -79,6 +79,4 @@ cd smart_contracts_evaluation
 For example, to run experiment for auction, run `./test.sh auction`.
 
 ## Supplementary materials and All Evaluation Results
-Appendix for detailed proof for some lemma and theorem used in the paper: `OCELOT_Appendix_Full_Proof.pdf`.
-
 Evaluation results: see in `Evaluation Results.xlsx`(./Evaluation Results.xlsx).
